@@ -1,16 +1,77 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**chengwudi1/chengwudi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm chengrm (chengwudi1) 👋
 
-Here are some ideas to get you started:
+**A Full-Stack Engineer Exploring AI Infrastructure, Agent Systems & Intelligent Applications.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+一个喜欢探索新技术的全栈工程师 · 专注于大模型应用与 AI Agent 工程落地
+
+<p>
+  <a href="https://github.com/chengwudi1">
+    <img src="https://img.shields.io/badge/GitHub-chengwudi1-181717?style=flat-square&logo=github" alt="GitHub" />
+  </a>
+  <a href="mailto:your_email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-China-red?style=flat-square" alt="Location" />
+</p>
+
+</div>
+
+---
+
+### 🧠 What I Think About & Explore
+
+- 🤖 **AI Agents & MCP Ecosystem**：深入探索 Model Context Protocol (MCP)、多 Agent 协作工作流与自主工具调用。
+- 📚 **RAG & Document Intelligence**：关注知识图谱/向量检索（LightRAG、Chroma）、非结构化文档多模态解析（MinerU）。
+- ⚙️ **Full-Stack & System Architecture**：高可用 Web 应用、服务间通信与端到端工程实践。
+- 🎯 **Pragmatic AI Products**：坚持用 AI 解决真实世界中具体而繁琐的问题，探索人机交互新范式。
+
+---
+
+### 🚧 Featured Open Source Projects
+
+* 📢 [**plain-speak**](https://github.com/chengwudi1/plain-speak)
+  > 把专业术语密集的复杂文本（合同、医疗报告、财报、论文、公文）翻译成通俗易懂的大白话，降低信息理解门槛。
+* 🗺️ [**TourPlanOpt**](https://github.com/chengwudi1/TourPlanOpt)
+  > 解决多目标约束下的旅游行程规划与资源分配优化工具。
+
+---
+
+### 🧰 Toolbox & Tech Stack
+
+<div align="center">
+
+<!-- 使用 skillicons.dev 自动生成精美技术图标 -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,java,ts,js,react,spring,fastapi,docker,kubernetes,postgres,mysql,git,linux,bash&perline=7" alt="Tech Stack" />
+</a>
+
+<p>
+  <code>Python / Java / TypeScript</code> · <code>AI Engineering (Agent / RAG / MCP)</code> · <code>Full-Stack</code>
+</p>
+
+</div>
+
+---
+
+### 📡 GitHub Activity & Stats
+
+<div align="center">
+
+<!-- GitHub 统计卡片 (透明深色主题) -->
+<a href="https://github.com/chengwudi1">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=chengwudi1&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chengwudi1&layout=compact&theme=radical" alt="Top Languages" />
+</a>
+
+<!-- 动态连续打卡活动条 (可选) -->
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=chengwudi1&theme=radical" alt="Streak Stats" /> -->
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Stay curious · Code with purpose · Build impactful things</sub>
+</div>
